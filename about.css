@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Noto Serif", serif;
+  scroll-behavior: smooth;
+}
+
+#aabout {
+  color: rgb(190, 151, 100);
+}
+
+main {
+  background-color: rgb(190, 151, 100);
+}
+
+.mhead {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(190, 151, 100);
+  background-color: #191919;
+  font-weight: 500;
+}
+
+.thead {
+  padding-top: 2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #191919;
+  padding-bottom: 1rem;
+}
+
+#mimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+}
+
+#sum {
+  text-align: left;
+  padding-left: 25rem;
+  padding-right: 25rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Sacramento", cursive;
+}
+
+.instaLink {
+  color: #191919;
+}
+
+.instaLink:hover {
+  color: #484848;
+}
+
+.instaLink:visited {
+  color: #191919;
+}
+
+#fairUse {
+  text-align: center;
+  font-weight: 700;
+  color: #191919;
+  padding-left: 22rem;
+  padding-right: 25rem;
+  font-size: 2rem;
+  padding-top: 5rem;
+}
+
+#fairUseD {
+  text-align: left;
+  padding-left: 25rem;
+  padding-right: 25rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Sacramento", cursive;
+}
+
+/* *********************************************************** */
+/* Media Query 
+   Small Mobile Device */
+
+@media screen and (max-width: 320px) {
+  .mhead {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(190, 151, 100);
+    background-color: #191919;
+    font-weight: 500;
+  }
+
+  .thead {
+    padding-top: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #191919;
+    padding-bottom: 1rem;
+  }
+
+  #mimg {
+    width: 30%;
+  }
+
+  #sum {
+    padding-top: 1rem;
+    text-align: left;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  #fairUse {
+    text-align: center;
+    font-weight: 700;
+    color: #191919;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.2rem;
+    padding-top: 3rem;
+  }
+
+  #fairUseD {
+    text-align: left;
+    padding-left: 0rem;
+    padding-right: 1rem;
+    font-size: 0.75rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+  }
+}

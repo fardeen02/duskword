@@ -1,0 +1,237 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Noto Serif", serif;
+  scroll-behavior: smooth;
+}
+
+#ppoem {
+  color: rgb(190, 151, 100);
+}
+
+.mhead {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(190, 151, 100);
+  background-color: #191919;
+  font-weight: 500;
+}
+
+.prep1 {
+  background-image: url("images/p1bg.jpg");
+  background-repeat: round;
+}
+
+#p1head {
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+#p1 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+.prep2 {
+  background-image: url("images/p2bg.jpg");
+  background-repeat: round;
+  color: whitesmoke;
+}
+
+#p2head {
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+#p2 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+.prep3 {
+  background-image: url("images/p3bg.jpg");
+  background-repeat: round;
+  color: whitesmoke;
+}
+
+#p3head {
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+#p3 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+.prep4 {
+  background-image: url("images/p4bg.jpg");
+  background-repeat: round;
+}
+
+#p4head {
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+#p4 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+.prep5 {
+  background-image: url("images/p5bg.webp");
+  background-repeat: round;
+  color: whitesmoke;
+}
+
+#p5head {
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+#p5 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+.prep6 {
+  background-image: url("images/p6bg.webp");
+  background-repeat: round;
+  color: whitesmoke;
+}
+
+#p6head {
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+#p6 {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Sacramento", cursive;
+}
+
+/* *********************************************************** */
+/* Media Query 
+   Small Mobile Device */
+
+@media screen and (max-width: 320px) {
+  .mhead {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(190, 151, 100);
+    background-color: #191919;
+    font-weight: 500;
+  }
+
+  .mhead {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(190, 151, 100);
+    background-color: #191919;
+    font-weight: 500;
+  }
+
+  #p1head {
+    font-size: 1.2rem;
+  }
+
+  #p1 {
+    font-size: 0.9rem;
+  }
+
+  #p2head {
+    font-size: 1.2rem;
+  }
+
+  #p2 {
+    font-size: 0.8rem;
+  }
+
+  #p3head {
+    font-size: 1.2rem;
+  }
+
+  #p3 {
+    font-size: 0.8rem;
+  }
+
+  #p4head {
+    font-size: 1.2rem;
+    padding-right: 7rem;
+  }
+
+  #p4 {
+    font-size: 0.8rem;
+    padding-right: 7rem;
+  }
+
+  #p5head {
+    font-size: 1.2rem;
+  }
+
+  #p5 {
+    font-size: 0.8rem;
+  }
+
+  #p6head {
+    font-size: 1.2rem;
+  }
+
+  #p6 {
+    font-size: 0.7rem;
+  }
+}

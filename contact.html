@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact | DuskWord - Reads QR Code to reach on Instagram</title>
+    <meta
+      name="description"
+      content="For any inquiries mail me on mfasofteducation@gmail.com "
+    />
+    <link rel="shortcut icon" href="images/mainLogo.jpeg" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="contact.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Noto+Serif&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="head">
+      <a href="index.html" class="logoLink"
+        ><img
+          src="images/mainLogo.jpeg"
+          alt="DuskWord's Logo"
+          title="Back to Home"
+          height="90"
+          width="90"
+          class="logo"
+      /></a>
+
+      <nav class="navbar">
+        <ul class="navbarList">
+          <li><a href="index.html" class="navbarLink" id="chome">Home</a></li>
+          <li>
+            <a href="quote.html" class="navbarLink" id="cquote">Quotes</a>
+          </li>
+          <li><a href="poem.html" class="navbarLink" id="cpoem">Poems</a></li>
+          <li>
+            <a href="stories.html" class="navbarLink" id="cstory">Stories</a>
+          </li>
+          <li><a href="about.html" class="navbarLink" id="cabout">About</a></li>
+          <li>
+            <a href="contact.html" class="navbarLink" id="ccontact">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1 class="mhead">Contact</h1>
+      <img
+        src="images/qrcode.png"
+        alt="Instagram QR Code"
+        title="Scan to see Instagram page"
+        id="qrCode"
+        height="250"
+        width="250"
+      />
+      <pre class="sum">
+      
+        Instagram id: <a class="instaHandle" href="https://www.instagram.com/dusk__word/" title="Click to reach on Insta" target="_blank">@dusk__word</a>  
+        For all general inquiries, please
+        email on <a class="mailLink" href="mailto:mfasofteducation@gmail.com" title="Click for mailing">mfasofteducation@gmail.com</a>
+        This email address may also be used
+        to request accessibilityaccommodations.
+
+        For inquiries regarding content, quotes,
+        poem and short stories, api please
+        contact on same email address.
+        
+      </pre>
+    </main>
+     
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><b>&#8679</b></button>
+
+    <footer class="footer" id="foot">
+      <p>
+        &copy;2022 All rights reserved, DuskWord<br />
+        Designed & Developed By Md Fardeen Alam
+      </p>
+    </footer>
+
+    <script>
+      //Get the button
+      var mybutton = document.getElementById("myBtn");
+
+      // When the user scrolls down 1.25rem from the top of the document, show the button
+      window.onscroll = function () {
+        scrollFunction();
+      };
+
+      function scrollFunction() {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
+          mybutton.style.display = "block";
+        } else {
+          mybutton.style.display = "none";
+        }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+  </body>
+</html>

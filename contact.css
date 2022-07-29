@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Noto Serif", serif;
+  scroll-behavior: smooth;
+}
+
+main {
+  background-color: rgb(190, 151, 100);
+}
+
+#ccontact {
+  color: rgb(190, 151, 100);
+}
+
+.mhead {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(190, 151, 100);
+  background-color: #191919;
+  font-weight: 500;
+}
+
+#qrCode {
+  padding-top: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.instaHandle {
+  color: #191919;
+}
+
+.instaHandle:hover {
+  color: #484848;
+}
+
+.instaHandle:visited {
+  color: #191919;
+}
+
+.mailLink {
+  color: #191919;
+}
+
+.mailLink:hover {
+  color: #484848;
+}
+
+.mailLink:visited {
+  color: #191919;
+}
+
+.sum {
+  text-align: left;
+  padding-left: 30rem;
+  padding-right: 25rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Esteban", serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Sacramento", cursive;
+}
+
+/* *********************************************************** */
+/* Media Query 
+   Small Mobile Device */
+
+@media screen and (max-width: 320px) {
+  .mhead {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(190, 151, 100);
+    background-color: #191919;
+    font-weight: 500;
+  }
+
+  #qrCode {
+    padding-top: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7.5rem;
+    width: 7.5rem;
+  }
+
+  .sum {
+    text-align: left;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    font-family: "Cormorant Garamond", serif;
+    font-family: "Esteban", serif;
+    font-family: "Noto Serif", serif;
+    font-family: "Raleway", sans-serif;
+    font-family: "Sacramento", cursive;
+  }
+}

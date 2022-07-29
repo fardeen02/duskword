@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cormorant Garamond", serif;
+  font-family: "Noto Serif", serif;
+  scroll-behavior: smooth;
+}
+
+.card-heading {
+  color: navy;
+  font-weight: 600;
+}
+
+.astory {
+  font-size: 80%;
+  color: whitesmoke !important ;
+}
+
+.astory-btn {
+  color: whitesmoke !important;
+  background-color: navy !important;
+}
+.astory-btn:hover {
+  background-color: green !important;
+}
