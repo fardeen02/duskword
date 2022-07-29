@@ -1068,14 +1068,6 @@
         "author": "Elizabeth Browning"
     },
     {
-        "text": "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-        "author": "Arthur Conan Doyle"
-    },
-    {
-        "text": "Good timber does not grow with ease; the stronger the wind, the stronger the trees.",
-        "author": "J. Willard Marriott"
-    },
-    {
         "text": "I believe that we are fundamentally the same and have the same basic potential.",
         "author": "Dalai Lama"
     },
@@ -1108,10 +1100,6 @@
         "author": "Lewis B. Smedes"
     },
     {
-        "text": "In separateness lies the world's great misery, in compassion lies the world's true strength.",
-        "author": "Buddha"
-    },
-    {
         "text": "By believing passionately in something that does not yet exist, we create it.",
         "author": "Nikos Kazantzakis"
     },
@@ -1122,10 +1110,6 @@
     {
         "text": "All the great performers I have worked with are fuelled by a personal dream.",
         "author": "John Eliot"
-    },
-    {
-        "text": "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
-        "author": "A. A. Milne"
     },
     {
         "text": "I never see what has been done; I only see what remains to be done.",
@@ -1200,10 +1184,6 @@
         "author": "Kenneth Patton"
     },
     {
-        "text": "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
-        "author": "Kahlil Gibran"
-    },
-    {
         "text": "If you get up one more time than you fall, you will make it through.",
         "author": "Unknown"
     },
@@ -1264,10 +1244,6 @@
         "author": "Lin-yutang"
     },
     {
-        "text": "Through perseverance many people win success out of what seemed destined to be certain failure.",
-        "author": "Benjamin Disraeli"
-    },
-    {
         "text": "Give thanks for the rain of life that propels us to reach new horizons.",
         "author": "Byron Pulsifer"
     },
@@ -1286,10 +1262,6 @@
     {
         "text": "It is only when the mind and character slumber that the dress can be seen.",
         "author": "Ralph Waldo Emerson"
-    },
-    {
-        "text": "If you don't like something, change it. If you can't change it, change your attitude.",
-        "author": "Maya Angelou"
     },
     {
         "text": "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
@@ -1320,16 +1292,8 @@
         "author": "Man Ray"
     },
     {
-        "text": "The most complicated achievements of thought are possible without the assistance of consciousness.",
-        "author": "Sigmund Freud"
-    },
-    {
         "text": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
         "author": "Wayne Dyer"
-    },
-    {
-        "text": "Most great people have attained their greatest success just one step beyond their greatest failure.",
-        "author": "Napoleon Hill"
     },
     {
         "text": "If you think you can, you can. And if you think you can't, you're right.",
@@ -1404,10 +1368,6 @@
         "author": "Napoleon Hill"
     },
     {
-        "text": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
-        "author": "John Adams"
-    },
-    {
         "text": "I cannot make my days longer so I strive to make them better.",
         "author": "Henry David Thoreau"
     },
@@ -1420,20 +1380,12 @@
         "author": "Helen Keller"
     },
     {
-        "text": "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
-        "author": "Albert Schweitzer"
-    },
-    {
         "text": "We cannot do everything at once, but we can do something at once.",
         "author": "Calvin Coolidge"
     },
     {
         "text": "You have to do your own growing no matter how tall your grandfather was.",
         "author": "Abraham Lincoln"
-    },
-    {
-        "text": "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-        "author": "Unknown"
     },
     {
         "text": "It is fatal to enter any war without the will to win it.",
@@ -1450,10 +1402,6 @@
     {
         "text": "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
         "author": "Dalai Lama"
-    },
-    {
-        "text": "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
-        "author": "Walter Lippmann"
     },
     {
         "text": "The superior man is satisfied and composed; the mean man is always full of distress.",
@@ -1536,10 +1484,6 @@
         "author": "Pema Chodron"
     },
     {
-        "text": "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
-        "author": "Horace"
-    },
-    {
         "text": "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
         "author": "Morris West"
     },
@@ -1608,14 +1552,6 @@
         "author": "Oprah Winfrey"
     },
     {
-        "text": "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
-        "author": "Byron Pulsifer"
-    },
-    {
-        "text": "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
-        "author": "Leonardo Ruiz"
-    },
-    {
         "text": "The free man is he who does not fear to go to the end of his thought.",
         "author": "Leon Blum"
     },
@@ -1636,24 +1572,12 @@
         "author": "Charles Dickens"
     },
     {
-        "text": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
-        "author": "Dalai Lama"
-    },
-    {
         "text": "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
         "author": "Sam Keen"
     },
     {
         "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
         "author": "Walt Emerson"
-    },
-    {
-        "text": "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
-        "author": "John Astin"
-    },
-    {
-        "text": "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
-        "author": "Elbert Hubbard"
     },
     {
         "text": "There is no retirement for an artist, it's your way of living so there is no end to it.",
@@ -1664,20 +1588,8 @@
         "author": "Confucius"
     },
     {
-        "text": "Why worry about things you cannot control when you can keep yourself busy controlling the things that depend on you?",
-        "author": "Unknown"
-    },
-    {
         "text": "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
         "author": "Laozi"
-    },
-    {
-        "text": "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
-        "author": "William Shakespeare"
-    },
-    {
-        "text": "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
-        "author": "George Sheehan"
     },
     {
         "text": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
@@ -1700,10 +1612,6 @@
         "author": "Louise Hay"
     },
     {
-        "text": "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
-        "author": "W. Clement Stone"
-    },
-    {
         "text": "The reason most goals are not achieved is that we spend our time doing second things first.",
         "author": "Robert McKain"
     },
@@ -1724,16 +1632,8 @@
         "author": "Johann Wolfgang von Goethe"
     },
     {
-        "text": "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
-        "author": "William Saroyan"
-    },
-    {
         "text": "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
         "author": "Byron Pulsifer"
-    },
-    {
-        "text": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
-        "author": "Leonardo da Vinci"
     },
     {
         "text": "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
@@ -1750,10 +1650,6 @@
     {
         "text": "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
         "author": "Naguib Mahfouz"
-    },
-    {
-        "text": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more",
-        "author": "Anthony Robbins"
     },
     {
         "text": "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
@@ -1796,14 +1692,6 @@
         "author": "Christopher Morley"
     },
     {
-        "text": "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
-        "author": "Hannah Arendt"
-    },
-    {
-        "text": "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
-        "author": "Alan Cohen"
-    },
-    {
         "text": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
         "author": "Aldous Huxley"
     },
@@ -1814,10 +1702,6 @@
     {
         "text": "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
         "author": "Byron Pulsifer"
-    },
-    {
-        "text": "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
-        "author": "Sue Patton Thoele"
     },
     {
         "text": "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
@@ -1860,10 +1744,6 @@
         "author": "Louis Pasteur"
     },
     {
-        "text": "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.",
-        "author": "Rumi"
-    },
-    {
         "text": "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
         "author": "Sogyal Rinpoche"
     },
@@ -1874,14 +1754,6 @@
     {
         "text": "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
         "author": "William Penn"
-    },
-    {
-        "text": "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
-        "author": "Immanuel Kant"
-    },
-    {
-        "text": "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
-        "author": "Buddha"
     },
     {
         "text": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
@@ -1906,10 +1778,6 @@
     {
         "text": "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
         "author": "Eleanor Roosevelt"
-    },
-    {
-        "text": "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
-        "author": "Robert Fulghum"
     },
     {
         "text": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
@@ -1948,10 +1816,6 @@
         "author": "Sri Chinmoy"
     },
     {
-        "text": "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
-        "author": "Johann Wolfgang von Goethe"
-    },
-    {
         "text": "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
         "author": "James Freeman Clarke"
     },
@@ -1968,20 +1832,12 @@
         "author": "Wayne Dyer"
     },
     {
-        "text": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
-        "author": "Buddha"
-    },
-    {
         "text": "It is the greatest of all mistakes to do nothing because you can only do little do what you can.",
         "author": "Sydney Smith"
     },
     {
         "text": "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
         "author": "Confucius"
-    },
-    {
-        "text": "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
-        "author": "Mary Kay Ash"
     },
     {
         "text": "Those who try to do something and fail are infinitely better than those who try nothing and succeed.",
@@ -2014,10 +1870,6 @@
     {
         "text": "Life is not measured by the breaths we take, but by the moments that take our breath.",
         "author": "Unknown"
-    },
-    {
-        "text": "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
-        "author": "Honore de Balzac"
     },
     {
         "text": "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
@@ -2072,14 +1924,6 @@
         "author": "Jessamyn West"
     },
     {
-        "text": "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.",
-        "author": "Plato"
-    },
-    {
-        "text": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
-        "author": "Bruce Lee"
-    },
-    {
         "text": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
         "author": "Charlotte Gilman"
     },
@@ -2132,10 +1976,6 @@
         "author": "Byron Pulsifer"
     },
     {
-        "text": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
-        "author": "Henry Miller"
-    },
-    {
         "text": "At the center of your being you have the answer; you know who you are and you know what you want.",
         "author": "Lao Tzu"
     },
@@ -2146,14 +1986,6 @@
     {
         "text": "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
         "author": "Georg Lichtenberg"
-    },
-    {
-        "text": "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
-        "author": "Anais Nin"
-    },
-    {
-        "text": "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
-        "author": "Gloria Steinem"
     },
     {
         "text": "Sadness may be part of life but there is no need to let it dominate your entire life.",
@@ -2296,10 +2128,6 @@
         "author": "Benjamin Disraeli"
     },
     {
-        "text": "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
-        "author": "Dalai Lama"
-    },
-    {
         "text": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases.",
         "author": "Carl Jung"
     },
@@ -2320,10 +2148,6 @@
         "author": "Johann Wolfgang von Goethe"
     },
     {
-        "text": "The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.",
-        "author": "Thich Nhat Hanh"
-    },
-    {
         "text": "If you focus on results, you will never change. If you focus on change, you will get results.",
         "author": "Jack Dixon"
     },
@@ -2342,10 +2166,6 @@
     {
         "text": "You can be what you want to be. You have the power within and we will help you always.",
         "author": "Byron Pulsifer"
-    },
-    {
-        "text": "To speak gratitude is courteous and pleasant, to enact gratitude is generous and noble, but to live gratitude is to touch Heaven.",
-        "author": "Johannes Gaertner"
     },
     {
         "text": "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
